@@ -1,2 +1,2 @@
 # Challenges
-Repository where com has all the challenges done
+Repository where it contains all the challenges made
